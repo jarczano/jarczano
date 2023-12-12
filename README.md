@@ -25,12 +25,13 @@ Play here https://heads-up-poker.azurewebsites.net/
 
 ### Professional Experience
 
-I have been working independently on a project for a startup for a year. This project focuses on integrating smartphones with devices based on the ESP32 platform, enabling the creation of unique technological solutions.
+Designed and implemented software for the entire system, integrating smartphones with devices based on the ESP32 platform. This facilitated the creation of unique technological solutions from the ideation phase to implementation. Conducted research to conceive innovative solutions
 
-**My Tasks and Achievements:**
-- **Mobile Application:** I have developed a mobile application for the Android platform using Kotlin. This application serves as the key user interface for our project.
-- **Device Construction:** I have been involved in the comprehensive process of creating the device, including electronics design, microcontroller programming, work on mechanical components, and 3D printing.
-- **Website:** I have developed the project's website and have been responsible for marketing activities.
+- Collected, processed, and automated databases for the application using Pandas and Numpy. 
+- Developed, implemented, and optimized prototype backend algorithms in Python. 
+- Created mathematical models forming the foundation for key algorithms responsible for system automation.
+- Developed a mobile application for Android using Kotlin, featuring a back-end responsible for database operations, computational tasks, and real-time data exchange with a microcontroller through Bluetooth.
+- Developed software in Arduino IDE (based on C++) as the back-end for the ESP32 microcontroller, facilitating real-time data exchange with an Android mobile application through wireless communication. 
 
 This has been a unique experience that has allowed me to develop skills in various technological domains.
 
