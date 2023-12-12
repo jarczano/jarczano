@@ -2,9 +2,6 @@
 
 I'm a mathematics and environmental engineering graduate from Poznan University of Technology who discovered a passion for programming and artificial intelligence. My journey into the world of technology has been an exciting one, and I'm eager to share some of my work and interests with you.
 
-- 🌱 I'm constantly learning and exploring new horizons in technology.
-- 🌍 I'm based in Poland.
-
 ### My Portfolio
 
 In my portfolio, you'll find a mix of projects that reflect my diverse interests and skills:
