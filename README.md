@@ -34,7 +34,7 @@ This has been a unique experience that has allowed me to develop skills in vario
 
 ### Seeking Opportunities
 
-I'm currently on the lookout for job as a software engineer. I'm eager to contribute to exciting projects and continue expanding my skills.
+I'm currently on the lookout for job as a AI engineer. I'm eager to contribute to exciting projects and continue expanding my skills.
 
 ### Beyond Tech
 
